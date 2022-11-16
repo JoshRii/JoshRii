@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+	int num;
+	scanf("%d", &num);              	                  // Reading input from STDIN
+	printf("Input number is %d.\n", num);    
+
+	const N;
+	where N <=0;
+	else N <= 10;
+
+	
+	
+}
